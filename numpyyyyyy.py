@@ -1,4 +1,4 @@
-'''
+
 n=int(input("enter the range =  "))
 from numpy import *
 ar=array('i'ones(n))
@@ -20,16 +20,6 @@ print(ar5)
 print(id(ar4))
 print(id(ar5))
 
-
-
-
-
-
-
-
-
-
-'''
 from numpy import *
 ar=linspace(0,9,20)
 ar2=arange(1,15,2,float)
